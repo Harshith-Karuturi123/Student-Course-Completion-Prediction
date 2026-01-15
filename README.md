@@ -1,10 +1,20 @@
 # Student-Course-Completion-Prediction
 Machine learning project to predict student course completion using engagement and demographic data, applying EDA, feature engineering, and classification models.
 
-## Notebook Rendering Note
+## Notebook Files Information
 
-> If the Jupyter Notebook does not render correctly on GitHub, please refer to the [HTML version](Student_Course_Completion_Prediction.html) for full outputs and visualizations.
+This repository contains multiple versions of the notebook for better accessibility and viewing experience:
 
+- **Student_Course_Completion_Prediction_Clean.ipynb**  
+  A clean version of the notebook with all outputs removed. This version is lightweight and renders properly on GitHub.
+
+- **Student_Course_Completion_Prediction_With_Outputs.ipynb**  
+  The complete notebook with all outputs, visualizations, and results generated after executing the cells.
+
+- **Student_Course_Completion_Prediction_Report.html**  
+  An HTML report generated from the notebook for easy viewing of results and visualizations without running the code.
+
+> Note: Due to file size limitations, GitHub may not preview notebooks or HTML files with large outputs. Please download the files to view them locally for the full content.
 
 
 ## Overview
